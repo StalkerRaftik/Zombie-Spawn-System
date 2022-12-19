@@ -2,7 +2,7 @@
 
 Simple npc spawn system based on two entities: 
 - Zombies groups - set of NPC with spawn chances
-- Spawn places - some territory where zombies will spawn. It's given as two vectors - ends of cube diameters 
+- Spawn places - some territory where zombies will spawn. It's given as two vectors - ends of cube diameter 
 
 ## Features: 
 

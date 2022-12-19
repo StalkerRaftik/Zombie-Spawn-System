@@ -152,7 +152,7 @@ function places:canSpawnHere(vector)
     return true
 end
 
--- Используется полярная система координат. Математика - хуета, но тут конечно ебет
+-- Используется полярная система координат
 function places:getZombieSpawnPoint(ply)
 	local maxTries = 30
 	local tries = 0
